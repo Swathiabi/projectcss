@@ -1,0 +1,129 @@
+*{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+.background{
+    background-color: rgb(22, 233, 240);
+    height: 450px;
+    color: white;
+    position: relative;
+}
+.navigation{
+    color: black;
+    background-color: white;
+    position: absolute;
+    top: 100px;
+    display: inline;
+    height:200px;
+    width: 900px;
+    margin-left: 20%;
+}
+.li
+{
+    display: inline;
+    text-align: left;
+    margin-right: 20px;
+}
+.input{
+    display: inline;
+    padding-left: 200px;
+    border-color: black;
+}
+img[src="resort.jpg"]{
+    position: absolute;
+    z-index: 1;
+    margin-left: 220px;
+    margin-top: 60px;
+    border: 10px solid white;
+    border-radius: 8px;
+    box-shadow: 7px 8px 10px black;
+}
+.content{
+    position: absolute;
+    z-index: 1;
+    color: black;
+    margin-left: 700px;
+    margin-top: 90px;
+    background-color: aliceblue;
+    opacity: 0.6;
+    padding-left: 50px;
+    border: 5px;
+}
+.middle{
+    background-color: aqua;
+    height: 20px;
+    padding-top: 10px;
+}
+img[src="icons8-leaf-67.png"]{
+    position: relative;
+    top: 11px;
+}
+img[src="map.jpg"]{
+    float: left;
+    margin-right: 10px;
+    border: 5px solid rgb(150, 145, 145);
+    border-radius: 5px;
+}
+.sec1{
+    width: 700px;
+    margin-left: 70px;
+}
+.sec2{
+    border: 0px solid;
+    width: 450px;
+    margin-left: 50px;
+    padding-left: 20px;
+}
+.section{
+    display: flex;
+}
+img[src="wifi.jpg"]{
+    margin-left: 50px;
+}
+.pac{
+    width: 400px;
+    display: inline-block;
+    padding-left: 20px;
+}
+#package{
+    display: flex;
+}
+.container{
+    
+    border: 1px solid rgb(105, 224, 224);
+    border-radius: 10px;
+    width:200px;
+    display: inline-block;
+    height: 200px;
+    padding-left: 20px;
+    margin: 20px;
+    color: white;
+
+}
+.footer{
+    text-align: center;
+    background: linear-gradient(rgb(26, 102, 102),rgb(105, 224, 224));
+    height: 300px;
+}
+h3{
+    padding-bottom: 10px;
+    top: 10px;
+    width: 100%;
+}
+#read{
+    position: relative;
+    left: 500px;
+}
+h5{
+    color: rgb(18, 196, 196);
+}
+
+
+
+
+
+
+
+
+
+
